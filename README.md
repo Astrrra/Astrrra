@@ -4,7 +4,7 @@
 - 👀 I’m interested in InfoSec stuff and embedded electronics
 - 🌱 I’m currently learning C and Rust, and I already know Python pretty well
 - 📫 You can reach me on Telegram @astrra or send me an email to astra@astrra.space
-- 🐬 Average Flipper enjoyer
+- 🐬 Community manager at flipperdevices.com
 <!---
 Astrrra/Astrrra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
