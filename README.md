@@ -1,4 +1,3 @@
-- 💜 Hi, I’m Astra!
-- 👾 Interested in InfoSec stuff and embedded electronics
-- 🪁 You can reach me via [email](mailto:me@astrra.space)
-- 🔤 Pronouns: she/her
+my code runs on your flipper zero
+
+more on [astrra.space](https://astrra.space)
